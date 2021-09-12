@@ -1,0 +1,4 @@
+Algortimo gera solução apenas de tabuleiros de dimensões ímpares maiores que 4
+Tamanho máximo de 5001
+
+
